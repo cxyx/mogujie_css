@@ -17,7 +17,7 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
-@include b(c-lauout) {
+@include b(c-layout) {
   display: flex;
   flex-direction: column;
 
